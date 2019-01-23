@@ -16,5 +16,10 @@ namespace git_dene_son
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            MessageBox.Show("merhaba Aslan");
+        }
     }
 }
