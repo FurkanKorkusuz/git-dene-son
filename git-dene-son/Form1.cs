@@ -19,6 +19,11 @@ namespace git_dene_son
 
         private void Form1_Load(object sender, EventArgs e)
         {
+          
+        }
+
+        private void btnGoster_Click(object sender, EventArgs e)
+        {
             MessageBox.Show("merhaba faruk");
         }
     }
