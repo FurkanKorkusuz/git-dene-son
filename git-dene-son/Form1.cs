@@ -19,7 +19,7 @@ namespace git_dene_son
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("merhaba Aslan");
+            MessageBox.Show("merhaba faruk");
         }
     }
 }
